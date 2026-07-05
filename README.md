@@ -301,11 +301,3 @@ Contributions are welcome!
 
 ---
 
-# ⭐ Support
-
-If you like this project, please consider giving it a ⭐ on GitHub.
-
-It motivates me to build more open-source AI and Machine Learning projects.
-
----
-
